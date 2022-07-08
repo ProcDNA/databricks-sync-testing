@@ -4,5 +4,5 @@ print("Hello Team!!")
 
 # COMMAND ----------
 
-Print(123)
+print(123)
 print(456)
