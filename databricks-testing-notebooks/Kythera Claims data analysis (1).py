@@ -4,6 +4,10 @@ dbutils.fs.ls("dbfs:/mnt/kythera/00_Raw/")
 
 # COMMAND ----------
 
+
+
+# COMMAND ----------
+
 dbutils.fs.ls("dbfs:/mnt/kythera/00_Raw/01_Kythera_a1_Claimline_alopesia_attribute/_committed_590254753263965156")
 
 # COMMAND ----------
